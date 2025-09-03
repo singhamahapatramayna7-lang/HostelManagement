@@ -7,4 +7,5 @@ public string allotedRoom{set;get;}
 public string rent{set;get;}
 
 
+
 }
