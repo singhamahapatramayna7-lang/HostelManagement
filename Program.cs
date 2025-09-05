@@ -23,7 +23,12 @@ class Program
             Console.WriteLine("=====================================");
             Console.Write("Enter your choice (1-5): ");
 
+
+
+            bool running = true;
+
             string choice = Console.ReadLine();
+
 
             switch (choice)
             {
