@@ -20,7 +20,8 @@ class HostelPG
         {
             Guests.Remove(guest);
             Console.WriteLine($"Guest {guest.Name} removed.");
-        }
+        
+}
         else
         {
             Console.WriteLine("Guest not found.");

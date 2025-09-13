@@ -117,6 +117,7 @@ class Program
         {
             Console.WriteLine($"\nRoom {room} is currently Vacant.");
         }
+
     }
 
     static void RecordPayment()
